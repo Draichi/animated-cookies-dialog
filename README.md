@@ -8,4 +8,4 @@ This is a simple animated HTML template of a cookie dialog
 npx live-server
 ```
 
-![demo](./demo.gif)
+![demo](./assets/demo.gif)
